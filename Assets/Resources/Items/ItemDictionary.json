@@ -1,0 +1,8 @@
+{
+	"items":[
+		 "Items/Drawer.json",
+		 "Items/Shelf.json",
+		 "Items/DepthShelf.json",
+		 "Items/StorageBox.json"
+	]
+}

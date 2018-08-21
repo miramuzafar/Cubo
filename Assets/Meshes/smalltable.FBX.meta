@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 05fe3e03f948853418983e98cc7fb07e
+timeCreated: 1500524822
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Group_12879
+    100002: Group_12880
+    100004: Group_12881
+    100006: Group_12883
+    100008: Group_12887
+    100010: Group_12888
+    100012: Group_12889
+    100014: Group_12890
+    100016: Group_12891
+    100018: Group_12892
+    100020: Group_12893
+    100022: Group_12894
+    100024: Group_12895
+    100026: Group_12896
+    100028: Group_12897
+    100030: Group_12898
+    100032: //RootNode
+    400000: Group_12879
+    400002: Group_12880
+    400004: Group_12881
+    400006: Group_12883
+    400008: Group_12887
+    400010: Group_12888
+    400012: Group_12889
+    400014: Group_12890
+    400016: Group_12891
+    400018: Group_12892
+    400020: Group_12893
+    400022: Group_12894
+    400024: Group_12895
+    400026: Group_12896
+    400028: Group_12897
+    400030: Group_12898
+    400032: //RootNode
+    2300000: Group_12879
+    2300002: Group_12880
+    2300004: Group_12881
+    2300006: Group_12883
+    2300008: Group_12887
+    2300010: Group_12888
+    2300012: Group_12889
+    2300014: Group_12890
+    2300016: Group_12891
+    2300018: Group_12892
+    2300020: Group_12893
+    2300022: Group_12894
+    2300024: Group_12895
+    2300026: Group_12896
+    2300028: Group_12897
+    2300030: Group_12898
+    3300000: Group_12879
+    3300002: Group_12880
+    3300004: Group_12881
+    3300006: Group_12883
+    3300008: Group_12887
+    3300010: Group_12888
+    3300012: Group_12889
+    3300014: Group_12890
+    3300016: Group_12891
+    3300018: Group_12892
+    3300020: Group_12893
+    3300022: Group_12894
+    3300024: Group_12895
+    3300026: Group_12896
+    3300028: Group_12897
+    3300030: Group_12898
+    4300000: Group_12896
+    4300002: Group_12895
+    4300004: Group_12898
+    4300006: Group_12897
+    4300008: Group_12894
+    4300010: Group_12887
+    4300012: Group_12881
+    4300014: Group_12879
+    4300016: Group_12883
+    4300018: Group_12888
+    4300020: Group_12892
+    4300022: Group_12891
+    4300024: Group_12890
+    4300026: Group_12889
+    4300028: Group_12893
+    4300030: Group_12880
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

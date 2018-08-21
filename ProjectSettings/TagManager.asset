@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Component
+  - Outline
+  - Starterslots
+  - Base
+  - Button
+  - Delete
+  - Components
+  - Wall
+  - Floor
+  - Canvas
+  - Room
+  - NewComponent
+  - NewStarter
+  - Renderer
+  - LeftRightWall
+  - FrontWall
+  - Plan
+  - BigComponent
+  - PerspCamera
+  - ButtonLeft
+  - ButtonRight
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Component
+  - Starter
+  - NewComponent
+  - BackgroundLayer
+  - Floor
+  - Wall
+  - Room
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sprites
+    uniqueID: 1204010507
+    locked: 0
+  - name: DeleteLayer
+    uniqueID: 3770336163
+    locked: 0

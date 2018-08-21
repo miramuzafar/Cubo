@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!200 &20000000
+ShaderVariantCollection:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: NewShaderVariants
+  m_Shaders:
+    data:
+      first: {fileID: 66, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 45, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: SHADOWS_DEPTH
+          passType: 8
+        - keywords: UNITY_HDR_ON
+          passType: 10
+    data:
+      first: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: DIRECTIONAL
+          passType: 4
+        - keywords: DIRECTIONAL SHADOWS_SCREEN
+          passType: 4
+        - keywords: DIRECTIONAL _EMISSION
+          passType: 4
+        - keywords: DIRECTIONAL SHADOWS_SCREEN _EMISSION
+          passType: 4
+        - keywords: DIRECTIONAL _METALLICGLOSSMAP
+          passType: 4
+        - keywords: DIRECTIONAL SHADOWS_SCREEN _METALLICGLOSSMAP
+          passType: 4
+        - keywords: DIRECTIONAL
+          passType: 5
+        - keywords: SHADOWS_DEPTH
+          passType: 8
+        - keywords: SHADOWS_DEPTH _METALLICGLOSSMAP
+          passType: 8
+        - keywords: UNITY_HDR_ON
+          passType: 10
+        - keywords: UNITY_HDR_ON _EMISSION
+          passType: 10
+        - keywords: UNITY_HDR_ON _METALLICGLOSSMAP
+          passType: 10
+        - keywords: UNITY_HDR_ON _EMISSION _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+          passType: 10
+    data:
+      first: {fileID: 64, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: SHADOWS_SPLIT_SPHERES
+          passType: 0
+        - keywords: SHADOWS_SINGLE_CASCADE SHADOWS_SPLIT_SPHERES
+          passType: 0
+    data:
+      first: {fileID: 62, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 74, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: UNITY_HDR_ON
+          passType: 0
+    data:
+      first: {fileID: 69, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: DIRECTIONAL UNITY_HDR_ON
+          passType: 0
+        - keywords: DIRECTIONAL SHADOWS_SCREEN UNITY_HDR_ON
+          passType: 0
+    data:
+      first: {fileID: 102, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: _SUNDISK_SIMPLE
+          passType: 0
+    data:
+      first: {fileID: 9000, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 9001, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 9002, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 9003, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 10753, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: ETC1_EXTERNAL_ALPHA
+          passType: 0
+    data:
+      first: {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+        - keywords: UNITY_UI_ALPHACLIP
+          passType: 0
+    data:
+      first: {fileID: 4800000, guid: 291f0d5b6045f4646847c59b4ce13ac5, type: 3}
+      second:
+        variants:
+        - keywords: DITHERING
+          passType: 0
+    data:
+      first: {fileID: 4800000, guid: 4ceb73bc148699b469361531d6062548, type: 3}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+        - keywords: ANTI_FLICKER
+          passType: 0
+    data:
+      first: {fileID: 4800000, guid: 607a5643efb168f429e438f7d6ad270a, type: 3}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+        - keywords: SHADOWS_DEPTH
+          passType: 8
+    data:
+      first: {fileID: 4800000, guid: 7d89469544dfa214eabdbf37fca76f40, type: 3}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+    data:
+      first: {fileID: 4800000, guid: 8ce0a6f4c8cae334d8a5617f302b6769, type: 3}
+      second:
+        variants:
+        - keywords: BLOOM COLOR_GRADING VIGNETTE_CLASSIC
+          passType: 0
+    data:
+      first: {fileID: 4800000, guid: d248d4d1588851f43a9fa18a4e6f0209, type: 3}
+      second:
+        variants:
+        - keywords: TONEMAPPING_NEUTRAL
+          passType: 0
+    data:
+      first: {fileID: 4800000, guid: e881ae5627d1cc84395303acfbca6fb2, type: 3}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+        - keywords: FOG_OFF
+          passType: 0
+    data:
+      first: {fileID: 4800000, guid: 3d8a650c34b1103479fbdbda1e003527, type: 3}
+      second:
+        variants:
+        - keywords: 
+          passType: 0
+        - keywords: SHADOWS_DEPTH
+          passType: 8
